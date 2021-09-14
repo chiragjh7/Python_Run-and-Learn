@@ -1,0 +1,5 @@
+Simplest definition — Function calling function itself.
+
+This is a logical and mathematical concept where we define a function to call itself to return the desired result. A recursive function should always have a termination condition.
+
+If the function does not have a termination condition then the function will not terminate, so the programmer should always be careful while writing a recursive function.

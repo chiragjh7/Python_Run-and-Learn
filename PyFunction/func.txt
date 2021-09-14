@@ -1,0 +1,9 @@
+Python functions can be defined as the block of code which can be called or used just by typing a name which is given by the programmer, during the writing of the program.
+Python Functions are defined using the “def” keyword.
+
+def function_name(arguments):
+    # block of code
+    return expression
+
+User-defined functions — These are those functions which are defined by the user or programmer.
+Built-In functions — These are those functions that are provided by the python i.e. pre-defined e.g. range(), print()

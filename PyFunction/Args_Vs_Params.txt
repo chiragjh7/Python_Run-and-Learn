@@ -1,0 +1,2 @@
+Parameters — When we define a function then the variable(s) inside the parentheses are called parameter(s).
+Arguments — When we call a function then the value(s) we pass inside the parentheses are called the argument(s).
